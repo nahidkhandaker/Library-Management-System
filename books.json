@@ -6,7 +6,7 @@
         "year": "2024",
         "isbn": 52720,
         "price": "100",
-        "quantity": "6",
+        "quantity": "5",
         "bookAddedAt": "20-12-2024 20:18:54",
         "book_last_updated_at": "20-12-2024 21:01:59"
     },
@@ -17,7 +17,17 @@
         "year": 1999,
         "isbn": 21837,
         "price": 599,
-        "quantity": 5,
+        "quantity": "4",
         "bookAddedAt": "20-12-2024 21:00:49"
+    },
+    {
+        "id": "15",
+        "title": "book 13",
+        "author": "author 13",
+        "year": 2013,
+        "isbn": 37744,
+        "price": 422,
+        "quantity": "4",
+        "bookAddedAt": "21-12-2024 14:24:55"
     }
 ]

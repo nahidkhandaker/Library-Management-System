@@ -1,0 +1,10 @@
+[
+    {
+        "borrower_name": "Jonota",
+        "phone_number": "01112222333",
+        "book_title": "Harry Potter",
+        "borrow_date": "21-12-2024 20:30:47",
+        "due_date": "04-01-2025 20:30:47",
+        "book_id": "54"
+    }
+]
